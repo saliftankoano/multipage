@@ -1,0 +1,24 @@
+*{
+    font-size: 1.2rem;
+}
+.hobbies,.contact,.index{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.basketball-imgs{
+    display: inline;
+}
+.movies-imgs{
+    display: inline;
+}
+.workouts-imgs{
+    display: inline;
+}
+.workouts-imgs img{
+    height: 100vh;
+}
+#profile_pic{
+    height: 50vh;
+}
